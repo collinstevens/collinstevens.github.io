@@ -15,7 +15,7 @@ navbar-links:
   About Me: 'aboutme'
   Resources:
     - PowerShell Explained: 'https://powershellexplained.com'
-    - JBS Custom Software Solutions: 'https://www.jbssolutions.com/'
+    - JBS Solutions: 'https://www.jbssolutions.com/'
   Home: 'https://collinstevens.com'
 
 # --- Logo --- #
