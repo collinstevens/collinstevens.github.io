@@ -15,13 +15,12 @@
       {% endif %}
       {{ site.time | date: '%Y' }}
 
-      {% if site.url-pretty %}
-      &nbsp;&bull;&nbsp;
       <p class="copyright text-muted">
         Ⓒ {{ site.time | date: '%Y' }} {{ site.author.name }} All Rights Reserved {% if site.url-pretty %} &nbsp;&bull;&nbsp;
         <a href="{{ site.url }}">{{ site.url-pretty }}</a>
         {% endif %}<br>
         The views expressed here are my own. 
+      </p>
       </p>
       <!-- Please don't remove this, keep my open source work credited :) -->
       <p class="theme-by text-muted">
