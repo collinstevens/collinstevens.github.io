@@ -9,6 +9,9 @@ description: A virtual proof that I'm awesome
 # Your name to show in the footer
 author: Collin Stevens
 
+# Blog name
+blog: Just the Bits
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
